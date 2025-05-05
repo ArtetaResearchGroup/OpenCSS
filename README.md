@@ -18,7 +18,7 @@ Ensure you have Python installed (recommended **Python 3.8+**). Clone the reposi
 ```bash
 git clone https://github.com/ArtetaResearchGroup/OpenCSS.git
 cd OpenCSS
-pip install -r requirements.txt
+conda env create -f environment_OQ_env.yml
 ```
 ## Usage ▶️
 ```bash
