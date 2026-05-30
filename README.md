@@ -1,6 +1,6 @@
 # OpenCSS
 
-OpenCSS is an open-source tool that allows users to perform ground motion selection based on Conditional Spectrum Selection (CSS), as described by Arteta and Abrahamson (2019). The tool also enables users to calculate Conditional Mean Spectra (CMS) and Uniform Hazard Spectra (UHS).
+OpenCSS is an open-source tool that allows users to perform ground motion selection based on Conditional Scenario Spectral (CSS), as described by Arteta and Abrahamson (2019). The tool also enables users to calculate Conditional Mean Spectra (CMS) and Uniform Hazard Spectra (UHS).
 
 Currently, OpenCSS (v1.0) supports input data from two seismic hazard databases, the **Servicio Geológico Colombiano (SGC)** and the **United States Geological Survey (USGS)**, providing flexibility for different regions and applications.
 
