@@ -1,0 +1,14 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "type": "SoftwareSourceCode",
+    "codeRepository": "https://github.com/ArtetaResearchGroup/OpenCSS.git",
+    "dateCreated": "2025-07-21",
+    "datePublished": "2026-06-16",
+    "description": "OpenCSS is an open-source tool that allows users to perform ground motion selection based on Conditional Scenario Spectral (CSS), as described by Arteta and Abrahamson (2019). The tool also enables users to calculate Conditional Mean Spectra (CMS) and Uniform Hazard Spectra (UHS)",
+    "downloadUrl": "https://github.com/ArtetaResearchGroup/OpenCSS.git",
+    "license": "https://spdx.org/licenses/AGPL-3.0",
+    "name": "OpenCSS",
+    "operatingSystem": "Windows",
+    "programmingLanguage": "Python 3",
+    "version": "1.0"
+}
